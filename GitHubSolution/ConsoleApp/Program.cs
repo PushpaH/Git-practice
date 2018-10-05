@@ -12,6 +12,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello,This is Console app test");
             Console.WriteLine("THis is to test CI");
+            Console.WriteLine("Add new line");
         }
     }
 }
