@@ -11,6 +11,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello,This is Console app test");
+            Console.WriteLine("THis is to test CI");
         }
     }
 }
